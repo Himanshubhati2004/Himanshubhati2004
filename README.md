@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Himanshu+Bhati+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+B.Tech+CSE-AI" alt="Typing SVG" />
 
 <!-- Terminal GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6NnUxdzBubWFyaHE3ZnVjZ2N0dWN0ZWdvcXQ5ZW9yOWVveHJmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6NnUxdzBubWFyaHE3ZnVjZ2N0dWN0ZWdvcXQ5ZW9yOWVveHJmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
 
 <br/>
 
